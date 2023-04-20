@@ -1,0 +1,2 @@
+this is text file just for the purpose of the learning algorithm 
+second line is the
